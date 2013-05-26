@@ -22,19 +22,18 @@
     xmlns:latin="http://schemas.android.com/apk/res/com.android.inputmethod.latin"
 >
     <Key
-        latin:keyLabel="z"
-        latin:keyHintLabel="!"
-        latin:additionalMoreKeys="!"
-        latin:moreKeys="!text/more_keys_for_z" />
+        latin:keyLabel="y"
+        latin:keyHintLabel="&lt;"
+        latin:additionalMoreKeys="&lt;"
+        latin:moreKeys="!text/more_keys_for_y" />
     <Key
-        latin:keyLabel="!text/keylabel_for_x"
-        latin:keyHintLabel="&quot;"
-        latin:additionalMoreKeys="&quot;"
-        latin:moreKeys="!text/more_keys_for_x" />
+        latin:keyLabel="x"
+        latin:keyHintLabel="&gt;"
+        latin:additionalMoreKeys="&gt;" />
     <Key
         latin:keyLabel="c"
-        latin:keyHintLabel="&apos;"
-        latin:additionalMoreKeys="&apos;"
+        latin:keyHintLabel="="
+        latin:additionalMoreKeys="="
         latin:moreKeys="!text/more_keys_for_c" />
     <Key
         latin:keyLabel="v"
@@ -47,11 +46,11 @@
         latin:additionalMoreKeys=";" />
     <Key
         latin:keyLabel="n"
-        latin:keyHintLabel="/"
-        latin:additionalMoreKeys="/"
+        latin:keyHintLabel="("
+        latin:additionalMoreKeys="("
         latin:moreKeys="!text/more_keys_for_n" />
     <Key
         latin:keyLabel="m"
-        latin:keyHintLabel="\?"
-        latin:additionalMoreKeys="\\?" />
+        latin:keyHintLabel=")"
+        latin:additionalMoreKeys=")" />
 </merge>
